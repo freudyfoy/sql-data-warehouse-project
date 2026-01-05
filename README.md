@@ -8,5 +8,5 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 - Initial database
 - DDL database (tables defination)
 - Load data into database
-- Store procedure (To re-use that procudre again ex.load data into database)
+- Store procedure (To re-use that procedure again ex.load data into database)
 - Load bronze layer 
