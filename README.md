@@ -2,11 +2,7 @@
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
 
 
-## Procedure
+## Data Architecture
 
-### Bronze
-- Initial database
-- DDL database (tables defination)
-- Load data into database
-- Store procedure (To re-use that procedure again ex.load data into database)
-- Load bronze layer 
+The data architecture for this project follows **Medallion Architecture** Bronze, Silver, and Gold layers:
+
