@@ -4,8 +4,8 @@ This project demonstrates a comprehensive data warehousing from building a data 
 
 ## Tools
 
-- SQL Server Express: Lightweight server for hosting your SQL database.
-- SQL Server Management Studio: GUI for managing and interacting with databases.
+- **SQL Server Express:** Lightweight server for hosting your SQL database.
+- **SQL Server Management Studio:** GUI for managing and interacting with databases.
 
 
 ## Data Architecture
