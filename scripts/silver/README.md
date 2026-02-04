@@ -1,4 +1,4 @@
-## Steps for Silver Layer
+## Procedure
 
 **1. Understand tables :** Make the Data Integration to understand relationship between tables
 
