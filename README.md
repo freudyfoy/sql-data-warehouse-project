@@ -1,5 +1,11 @@
-# sql-data-warehouse-project
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
+# Data Warehouse Project
+This project demonstrates a comprehensive data warehousing from building a data warehouse to generating actionable insights.
+
+
+## Tools
+
+- SQL Server Express: Lightweight server for hosting your SQL database.
+- SQL Server Management Studio: GUI for managing and interacting with databases.
 
 
 ## Data Architecture
