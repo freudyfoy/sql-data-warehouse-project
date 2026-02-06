@@ -1,5 +1,5 @@
 # Data Warehouse Project
-This project demonstrates a comprehensive data warehousing from building a data warehouse to generating actionable insights.
+This project demonstrates a comprehensive data warehousing from building a data warehouse (SQL-based) to generating actionable insights.
 
 
 ## Data Architecture
